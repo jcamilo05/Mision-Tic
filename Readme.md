@@ -4,3 +4,4 @@ This repo contains documentation about Mision Tic which is a specialized program
 
 * Basic programming
 * Fundamental programming
+* Software design
